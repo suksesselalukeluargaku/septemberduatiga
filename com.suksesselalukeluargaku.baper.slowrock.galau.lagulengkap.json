@@ -1,0 +1,252 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+ "Categories": [
+    {
+      "id": 1,
+      "name_category": "MELAYU A",
+      "image": "file:///android_asset/image/MLA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "MELAYU B",
+      "image": "file:///android_asset/image/MLB.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "DALAM SEPIKU KAULAH",
+      "title": "MELAYU A",
+      "image": "file:///android_asset/image/MLA.jpg",
+      "link_mp3": "mp3/1SLDALAMSPIKURC.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 2,
+      "name_category": "TAK SEDALAM INI",
+      "title": "MELAYU A",
+      "image": "file:///android_asset/image/MLA.jpg",
+      "link_mp3": "mp3/2SLTKSDLAMINIRC.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 3,
+      "name_category": "REMBULAN MALAM",
+      "title": "MELAYU A",
+      "image": "file:///android_asset/image/MLA.jpg",
+      "link_mp3": "mp3/3SLRMBULANMLAMRC.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 4,
+      "name_category": "BUIH JADI PERMADANI",
+      "title": "MELAYU A",
+      "image": "file:///android_asset/image/MLA.jpg",
+      "link_mp3": "mp3/4SLBUIHJDPRMDANIRC.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 5,
+      "name_category": "LUKA SEKARAT RASA",
+      "title": "MELAYU A",
+      "image": "file:///android_asset/image/MLA.jpg",
+      "link_mp3": "mp3/5SLLKASKRTRASARC.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 6,
+      "name_category": "KETIKA CINTA MENANGIS",
+      "title": "MELAYU A",
+      "image": "file:///android_asset/image/MLA.jpg",
+      "link_mp3": "mp3/6SLKTIKCNTAMNANGISRC.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 7,
+      "name_category": "TERDIAM SEPI",
+      "title": "MELAYU A",
+      "image": "file:///android_asset/image/MLA.jpg",
+      "link_mp3": "mp3/7SLTRDIMSPIRC.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 8,
+      "name_category": "SAKIT DALAM BERCINTA",
+      "title": "MELAYU A",
+      "image": "file:///android_asset/image/MLA.jpg",
+      "link_mp3": "mp3/8SLSKTDLMBRCNTARC.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 9,
+      "name_category": "ABADI SELAMANYA",
+      "title": "MELAYU A",
+      "image": "file:///android_asset/image/MLA.jpg",
+      "link_mp3": "mp3/SLABADISLAMANYARC.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 10,
+      "name_category": "ANUGERAH CINTA",
+      "title": "MELAYU A",
+      "image": "file:///android_asset/image/MLA.jpg",
+      "link_mp3": "mp3/SLANGRHCNTARC.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 11,
+      "name_category": "APAKAH ITU CINTA",
+      "title": "MELAYU A",
+      "image": "file:///android_asset/image/MLA.jpg",
+      "link_mp3": "mp3/SLAPKHITCNTARC.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 12,
+      "name_category": "BIDADARI CINTA",
+      "title": "MELAYU A",
+      "image": "file:///android_asset/image/MLA.jpg",
+      "link_mp3": "mp3/SLBDDRICNTARC.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 13,
+      "name_category": "BAHAGIAMU LUKAKU",
+      "title": "MELAYU B",
+      "image": "file:///android_asset/image/MLB.jpg",
+      "link_mp3": "mp3/SLBHGIAMLUKAKURC.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 14,
+      "name_category": "BUKAN TAK SETIA",
+      "title": "MELAYU B",
+      "image": "file:///android_asset/image/MLB.jpg",
+      "link_mp3": "mp3/SLBKNTKSTIARC.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 15,
+      "name_category": "CINTA MEMBAWA DERITA",
+      "title": "MELAYU B",
+      "image": "file:///android_asset/image/MLB.jpg",
+      "link_mp3": "mp3/SLCNTMMBWADRITARC.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 16,
+      "name_category": "CINTA SEORANG BIDUAN",
+      "title": "MELAYU B",
+      "image": "file:///android_asset/image/MLB.jpg",
+      "link_mp3": "mp3/SLCNTSEORNGBDUANRC.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 17,
+      "name_category": "GUBUK JADI ISTANA",
+      "title": "MELAYU B",
+      "image": "file:///android_asset/image/MLB.jpg",
+      "link_mp3": "mp3/SLGBUKJDISTNARC.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 18,
+      "name_category": "HENDAKLAH CARI PENGGANTI",
+      "title": "MELAYU B",
+      "image": "file:///android_asset/image/MLB.jpg",
+      "link_mp3": "mp3/SLHNDKLAHCRIPENGGNTIRCA.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 19,
+      "name_category": "HARUSKAH AKU MATI",
+      "title": "MELAYU B",
+      "image": "file:///android_asset/image/MLB.jpg",
+      "link_mp3": "mp3/SLHRSKAHAKMTIRC.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 20,
+      "name_category": "HARTA PEMBANDING CINTA",
+      "title": "MELAYU B",
+      "image": "file:///android_asset/image/MLB.jpg",
+      "link_mp3": "mp3/SLHRTPMBDNDINGCNTARC.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 21,
+      "name_category": "KORBAN PERASAAN",
+      "title": "MELAYU B",
+      "image": "file:///android_asset/image/MLB.jpg",
+      "link_mp3": "mp3/SLKRBNPRSAANRC.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 22,
+      "name_category": "KARMA CINTA",
+      "title": "MELAYU B",
+      "image": "file:///android_asset/image/MLB.jpg",
+      "link_mp3": "mp3/SLKRMACNTARC.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 23,
+      "name_category": "MENUNGGU JANJI",
+      "title": "MELAYU B",
+      "image": "file:///android_asset/image/MLB.jpg",
+      "link_mp3": "mp3/SLMNGGUJNJIRC.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 24,
+      "name_category": "MENGAPA KAU BERI RASA",
+      "title": "MELAYU B",
+      "image": "file:///android_asset/image/MLB.jpg",
+      "link_mp3": "mp3/SLMNGPAKAUBRRASARC.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 25,
+      "name_category": "RELA DEMI CINTA",
+      "title": "MELAYU B",
+      "image": "file:///android_asset/image/MLB.jpg",
+      "link_mp3": "mp3/SLRLADMCINTARC.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 26,
+      "name_category": "TAKABEK GADIH RANTAU",
+      "title": "MELAYU B",
+      "image": "file:///android_asset/image/MLB.jpg",
+      "link_mp3": "mp3/SLTAKABEKGADIHRANTAURC.mp3",
+      "lyrics": ""
+	}
+  ]
+}
