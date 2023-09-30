@@ -1,0 +1,135 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+ "Categories": [
+    {
+      "id": 1,
+      "name_category": "MUHASABAH",
+      "image": "file:///android_asset/image/RMD.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "MUHASABAH",
+      "title": "I'TIRAF",
+      "image": "file:///android_asset/image/RMD.jpg",
+      "link_mp3": "mp3/1MHITIRAFDIR.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 2,
+      "name_category": "MUHASABAH",
+      "title": "BANYAK DOSA",
+      "image": "file:///android_asset/image/RMD.jpg",
+      "link_mp3": "mp3/MHBANYAKDOSADIR.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 3,
+      "name_category": "MUHASABAH",
+      "title": "KETIKA MERASA DOWN",
+      "image": "file:///android_asset/image/RMD.jpg",
+      "link_mp3": "mp3/MHKETIKAMERASADOWNDIR.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 4,
+      "name_category": "MUHASABAH",
+      "title": "MUHASABAH MENGHARUKAN",
+      "image": "file:///android_asset/image/RMD.jpg",
+      "link_mp3": "mp3/MHMUHASABAHMENGHARUKANDIR.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 5,
+      "name_category": "MUHASABAH",
+      "title": "PENYAKIT HATI",
+      "image": "file:///android_asset/image/RMD.jpg",
+      "link_mp3": "mp3/MHPNYKITHARIDIR.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 6,
+      "name_category": "MUHASABAH",
+      "title": "RENUNGAN KEHIDUPAN ISLAMI",
+      "image": "file:///android_asset/image/RMD.jpg",
+      "link_mp3": "mp3/MHRNDUNGANKHDUPANDIR.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 7,
+      "name_category": "MUHASABAH",
+      "title": "HATI MENJADI MATI",
+      "image": "file:///android_asset/image/RMD.jpg",
+      "link_mp3": "mp3/MHRNHTIMNJADIMATIDIR.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 8,
+      "name_category": "MUHASABAH",
+      "title": "RENUNGAN HIDUP",
+      "image": "file:///android_asset/image/RMD.jpg",
+      "link_mp3": "mp3/MHRNUNGANHDUPDIR.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 9,
+      "name_category": "MUHASABAH",
+      "title": "RENUNGAN ORANG TUA",
+      "image": "file:///android_asset/image/RMD.jpg",
+      "link_mp3": "mp3/MHRNUNGANORANGTUADIR.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 10,
+      "name_category": "MUHASABAH",
+      "title": "SEDIH",
+      "image": "file:///android_asset/image/RMD.jpg",
+      "link_mp3": "mp3/MHSEDIHDIR.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 11,
+      "name_category": "MUHASABAH",
+      "title": "TERINGAT DOSA",
+      "image": "file:///android_asset/image/RMD.jpg",
+      "link_mp3": "mp3/MHTRINGATDSADIR.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 12,
+      "name_category": "MUHASABAH",
+      "title": "INGAT MATI",
+      "image": "file:///android_asset/image/RMD.jpg",
+      "link_mp3": "mp3/ZMHRNGANKMTIANDIR.mp3",
+      "lyrics": ""
+	}
+  ]
+}
