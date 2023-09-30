@@ -1,0 +1,212 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "SLOW ROCK A",
+      "image": "file:///android_asset/image/SRA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "SLOW ROCK B",
+      "image": "file:///android_asset/image/.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "SLOW ROCK A",
+      "title": "BERBEZA KASTA",
+      "image": "file:///android_asset/image/SRA.jpg",
+      "link_mp3": "mp3/INBERBEZKSTASK.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 2,
+      "name_category": "SLOW ROCK A",
+      "title": "BIRKAN CINTA BERLALU",
+      "image": "file:///android_asset/image/SRA.jpg",
+      "link_mp3": "mp3/INBIARKNCNTMBRLALUSK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 3,
+      "name_category": "SLOW ROCK A",
+      "title": "BINTANG KEHIDUPAN",
+      "image": "file:///android_asset/image/SRA.jpg",
+      "link_mp3": "mp3/INBNTNGKHDUPNSK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 4,
+      "name_category": "SLOW ROCK A",
+      "title": "BUIH JADI PERMADANI",
+      "image": "file:///android_asset/image/SRA.jpg",
+      "link_mp3": "mp3/INBUIHJDPRMNDNISK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 5,
+      "name_category": "SLOW ROCK A",
+      "title": "CINTA KITA",
+      "image": "file:///android_asset/image/SRA.jpg",
+      "link_mp3": "mp3/INCNTAKTASK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 6,
+      "name_category": "SLOW ROCK A",
+      "title": "DURI TERLINDUNGI",
+      "image": "file:///android_asset/image/SRA.jpg",
+      "link_mp3": "mp3/INDRITLINGGASK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 7,
+      "name_category": "SLOW ROCK A",
+      "title": "DISANA MENANTI DISINI MENUNGGU",
+      "image": "file:///android_asset/image/SRA.jpg",
+      "link_mp3": "mp3/INDSNAMNANTIDSINIMNNGGUSK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 8,
+      "name_category": "SLOW ROCK A",
+      "title": "GERIMIS MENGUNDANG",
+      "image": "file:///android_asset/image/SRA.jpg",
+      "link_mp3": "mp3/INGRMISMNGNDANGSK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 9,
+      "name_category": "SLOW ROCK A",
+      "title": "HATI SIAPA TAK LUKA",
+      "image": "file:///android_asset/image/SRA.jpg",
+      "link_mp3": "mp3/INHTISIAPATKLKASK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 10,
+      "name_category": "SLOW ROCK A",
+      "title": "ISABELA",
+      "image": "file:///android_asset/image/SRA.jpg",
+      "link_mp3": "mp3/INISABLASK.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 11,
+      "name_category": "SLOW ROCK B",
+      "title": "JANGAN ADA ANGKARA",
+      "image": "file:///android_asset/image/SRB.jpg",
+      "link_mp3": "mp3/INJNGNADANGKRASK.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 12,
+      "name_category": "SLOW ROCK B",
+      "title": "KU TAK AKAN BERSUARA",
+      "image": "file:///android_asset/image/SRB.jpg",
+      "link_mp3": "mp3/INKTKAKANBRSUWRASK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 13,
+      "name_category": "SLOW ROCK B",
+      "title": "MAMA AKU INGIN PULANG",
+      "image": "file:///android_asset/image/SRB.jpg",
+      "link_mp3": "mp3/INMMAAKINGNPLANGSK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 14,
+      "name_category": "SLOW ROCK B",
+      "title": "MENCARI ALASAN",
+      "image": "file:///android_asset/image/SRB.jpg",
+      "link_mp3": "mp3/INMNCRIALASANSK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 15,
+      "name_category": "SLOW ROCK B",
+      "title": "PANGGUNG SANDIWARA",
+      "image": "file:///android_asset/image/SRB.jpg",
+      "link_mp3": "mp3/INPNGGUNGSNDWARASK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 16,
+      "name_category": "SLOW ROCK B",
+      "title": "RELA",
+      "image": "file:///android_asset/image/SRB.jpg",
+      "link_mp3": "mp3/INRELASK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 17,
+      "name_category": "SLOW ROCK B",
+      "title": "RINDU SERINDU RINDUNYA",
+      "image": "file:///android_asset/image/SRB.jpg",
+      "link_mp3": "mp3/INRNDUSRNDURNDUNYASK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 18,
+      "name_category": "SLOW ROCK B",
+      "title": "SEMBILU",
+      "image": "file:///android_asset/image/SRB.jpg",
+      "link_mp3": "mp3/INSMBILUSK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 19,
+      "name_category": "SLOW ROCK B",
+      "title": "SANDIWRA CINTA",
+      "image": "file:///android_asset/image/SRB.jpg",
+      "link_mp3": "mp3/INSNDIWRACNTASK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 20,
+      "name_category": "SLOW ROCK B",
+      "title": "SURAT UNDANGAN",
+      "image": "file:///android_asset/image/SRB.jpg",
+      "link_mp3": "mp3/INSRTUNDNGANSK.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 21,
+      "name_category": "SLOW ROCK B",
+      "title": "TINGGAL KESENDIRIAN",
+      "image": "file:///android_asset/image/SRB.jpg",
+      "link_mp3": "mp3/INTNGGLAHAKSNDIRISK.mp3",
+      "lyrics": ""
+	}
+  ]
+}
