@@ -1,0 +1,185 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "TAHLIL",
+      "image": "file:///android_asset/image/.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "DOA TAHLIL",
+      "image": "file:///android_asset/image/.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "YASSIN",
+      "image": "file:///android_asset/image/.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "TAHLIL",
+      "title": "TAWASUL",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/AMYTAWASULDU.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 2,
+      "name_category": "TAHLIL",
+      "title": "SURAH AL IKHLAS",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/BMYALIKHLASDU.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 3,
+      "name_category": "TAHLIL",
+      "title": "SURAH AL FALAQ",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/CMYALFALAQDU.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 4,
+      "name_category": "TAHLIL",
+      "title": "SURAH AL BAQOROH",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/DMYALBAQOROH15163DU.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 5,
+      "name_category": "TAHLIL",
+      "title": "SURAH AN NAS",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/DMYANNASDU.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 6,
+      "name_category": "TAHLIL",
+      "title": "SURAH AL FATIHAH",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/EMYALFATIHAHDU.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 7,
+      "name_category": "TAHLIL",
+      "title": "AYAT KURSI",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/FMYAYATKURSIDU.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 8,
+      "name_category": "TAHLIL",
+      "title": "SURAH AL BAQOROH",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/GMYALBAQOROH285286DU.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 9,
+      "name_category": "TAHLIL",
+      "title": "ISTIGHFAR",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/HMYISTOGHFARDU.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 10,
+      "name_category": "TAHLIL",
+      "title": "TAHLIL",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/IMYTAHLIL33DU.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 11,
+      "name_category": "TAHLIL",
+      "title": "KALIMAT SYAHADAD DAN SHOLAWAT",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/JMY2KALIMATSYAHADANDANSHOLAWATDU.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 12,
+      "name_category": "TAHLIL",
+      "title": "TASBIH",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/KMYTASBIHDU.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 13,
+      "name_category": "TAHLIL",
+      "title": "SHOLAWAT",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/LMYSHOLAWATDU.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 14,
+      "name_category": "TAHLIL",
+      "title": "AL AHZAB",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/MYALAHZAB56DU.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 15,
+      "name_category": "TAHLIL",
+      "title": "AL FATIHAH",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/NMYALFATIHAHDU.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 16,
+      "name_category": "DOA TAHLIL",
+      "title": "DOA TAHLIL",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/OMYDOATAHLILDU.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 17,
+      "name_category": "YASSIN",
+      "title": "SURAH YASSIN",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/ZMYYASINDU.mp3",
+      "lyrics": ""
+	}
+  ]
+}
