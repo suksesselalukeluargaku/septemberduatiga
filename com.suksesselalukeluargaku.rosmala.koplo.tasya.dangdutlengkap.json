@@ -1,0 +1,292 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "TASYA 1",
+      "image": "file:///android_asset/image/.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "TASYA 2",
+      "image": "file:///android_asset/image/.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "TASYA 1",
+      "title": "SIA SIA MENGHARAP CINTAMU",
+      "image": "file:///android_asset/image/TSYA.jpg",
+      "link_mp3": "mp3/TADUSYALO1.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 2,
+      "name_category": "TASYA 1",
+      "title": "SATU RASA CINTA",
+      "image": "file:///android_asset/image/TSYA.jpg",
+      "link_mp3": "mp3/TADUSYALO2.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 3,
+      "name_category": "TASYA 1",
+      "title": "NEMU",
+      "image": "file:///android_asset/image/TSYA.jpg",
+      "link_mp3": "mp3/TADUSYALO3.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 4,
+      "name_category": "TASYA 1",
+      "title": "PANTUN JANDA",
+      "image": "file:///android_asset/image/TSYA.jpg",
+      "link_mp3": "mp3/TADUSYALO4.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 5,
+      "name_category": "TASYA 1",
+      "title": "DOMBA KURING",
+      "image": "file:///android_asset/image/TSYA.jpg",
+      "link_mp3": "mp3/TADUSYALO5.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 6,
+      "name_category": "TASYA 1",
+      "title": "PESONA",
+      "image": "file:///android_asset/image/TSYA.jpg",
+      "link_mp3": "mp3/TADUSYALO6.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 7,
+      "name_category": "TASYA 1",
+      "title": "RUNGKAD",
+      "image": "file:///android_asset/image/TSYA.jpg",
+      "link_mp3": "mp3/TADUSYALO7.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 8,
+      "name_category": "TASYA 1",
+      "title": "SURGA DIBALIK DOSA",
+      "image": "file:///android_asset/image/TSYA.jpg",
+      "link_mp3": "mp3/TADUSYALO8.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 9,
+      "name_category": "TASYA 1",
+      "title": "TIARA",
+      "image": "file:///android_asset/image/TSYA.jpg",
+      "link_mp3": "mp3/TADUSYALO9.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 10,
+      "name_category": "TASYA 1",
+      "title": "OJO DIBANDINGKE",
+      "image": "file:///android_asset/image/TSYA.jpg",
+      "link_mp3": "mp3/TADUSYALO10.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 11,
+      "name_category": "TASYA 1",
+      "title": "DERMAGA BIRU",
+      "image": "file:///android_asset/image/TSYA.jpg",
+      "link_mp3": "mp3/TADUSYALO11.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 12,
+      "name_category": "TASYA 1",
+      "title": "JOKO TINGKIR",
+      "image": "file:///android_asset/image/TSYA.jpg",
+      "link_mp3": "mp3/TADUSYALO12.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 13,
+      "name_category": "TASYA 1",
+      "title": "BOJO LORO",
+      "image": "file:///android_asset/image/TSYA.jpg",
+      "link_mp3": "mp3/TADUSYALO13.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 14,
+      "name_category": "TASYA 1",
+      "title": "PECAH SERIBU",
+      "image": "file:///android_asset/image/TSYA.jpg",
+      "link_mp3": "mp3/TADUSYALO14.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 15,
+      "name_category": "TASYA 1",
+      "title": "SETIA UNTUK SELAMANYA",
+      "image": "file:///android_asset/image/TSYA.jpg",
+      "link_mp3": "mp3/TADUSYALO15.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 16,
+      "name_category": "TASYA 1",
+      "title": "SATRU 2",
+      "image": "file:///android_asset/image/TSYA.jpg",
+      "link_mp3": "mp3/TADUSYALO16.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 17,
+      "name_category": "TASYA 2",
+      "title": "CINTAKU",
+      "image": "file:///android_asset/image/TSYB.jpg",
+      "link_mp3": "mp3/TADUSYALO17.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 18,
+      "name_category": "TASYA 2",
+      "title": "CIDRO 3",
+      "image": "file:///android_asset/image/TSYB.jpg",
+      "link_mp3": "mp3/TADUSYALO18.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 19,
+      "name_category": "TASYA 2",
+      "title": "BIDADARI CINTA",
+      "image": "file:///android_asset/image/TSYB.jpg",
+      "link_mp3": "mp3/TADUSYALO19.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 20,
+      "name_category": "TASYA 2",
+      "title": "KOYO JOGJA ISTIMEWA",
+      "image": "file:///android_asset/image/TSYB.jpg",
+      "link_mp3": "mp3/TADUSYALO20.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 21,
+      "name_category": "TASYA 2",
+      "title": "ARJUN",
+      "image": "file:///android_asset/image/TSYB.jpg",
+      "link_mp3": "mp3/TADUSYALO21.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 22,
+      "name_category": "TASYA 2",
+      "title": "BUKAN TAK MAMPU",
+      "image": "file:///android_asset/image/TSYB.jpg",
+      "link_mp3": "mp3/TADUSYALO22.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 23,
+      "name_category": "TASYA 2",
+      "title": "BENANG BIRU",
+      "image": "file:///android_asset/image/TSYB.jpg",
+      "link_mp3": "mp3/TADUSYALO23.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 24,
+      "name_category": "TASYA 2",
+      "title": "JANGAN PERGI",
+      "image": "file:///android_asset/image/TSYB.jpg",
+      "link_mp3": "mp3/TADUSYALO24.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 25,
+      "name_category": "TASYA 2",
+      "title": "KABUT BIRU",
+      "image": "file:///android_asset/image/TSYB.jpg",
+      "link_mp3": "mp3/TADUSYALO25.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 26,
+      "name_category": "TASYA 2",
+      "title": "MEMANDANGMU",
+      "image": "file:///android_asset/image/TSYB.jpg",
+      "link_mp3": "mp3/TADUSYALO26.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 27,
+      "name_category": "TASYA 2",
+      "title": "MELEPAS LAJANG",
+      "image": "file:///android_asset/image/TSYB.jpg",
+      "link_mp3": "mp3/TADUSYALO27.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 28,
+      "name_category": "TASYA 2",
+      "title": "MENGEJAR BADAI",
+      "image": "file:///android_asset/image/TSYB.jpg",
+      "link_mp3": "mp3/TADUSYALO28.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 29,
+      "name_category": "TASYA 2",
+      "title": "PURNAMA MERINDU",
+      "image": "file:///android_asset/image/TSYB.jpg",
+      "link_mp3": "mp3/TADUSYALO29.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 30,
+      "name_category": "TASYA 2",
+      "title": "PERSINGGAHAN",
+      "image": "file:///android_asset/image/TSYB.jpg",
+      "link_mp3": "mp3/TADUSYALO30.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 31,
+      "name_category": "TASYA 2",
+      "title": "PERTEMUAN",
+      "image": "file:///android_asset/image/TSYB.jpg",
+      "link_mp3": "mp3/TADUSYALO31.mp3",
+      "lyrics": ""
+	}
+  ]
+}
