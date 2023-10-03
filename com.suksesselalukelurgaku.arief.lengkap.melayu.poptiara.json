@@ -1,0 +1,308 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "ARIEF 1",
+      "image": "file:///android_asset/image/LRA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "ARIEF 2",
+      "image": "file:///android_asset/image/LRB.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "ARIEF 1",
+      "title": "SATU RASA CINTA",
+      "image": "file:///android_asset/image/LRA.jpg",
+      "link_mp3": "mp3/RIFLATI1.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 2,
+      "name_category": "ARIEF 1",
+      "title": "AKU BERHARAP ENGKAU BERHIANAT",
+      "image": "file:///android_asset/image/LRA.jpg",
+      "link_mp3": "mp3/RIFLATI2.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 3,
+      "name_category": "ARIEF 1",
+      "title": "BUKAN AKU TAK SUDI",
+      "image": "file:///android_asset/image/LRA.jpg",
+      "link_mp3": "mp3/RIFLATI3.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 4,
+      "name_category": "ARIEF 1",
+      "title": "BERSAMAKU BUKAN MAUMU",
+      "image": "file:///android_asset/image/LRA.jpg",
+      "link_mp3": "mp3/RIFLATI4.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 5,
+      "name_category": "ARIEF 1",
+      "title": "HATIMU UNTUK SIAPA",
+      "image": "file:///android_asset/image/LRA.jpg",
+      "link_mp3": "mp3/RIFLATI5.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 6,
+      "name_category": "ARIEF 1",
+      "title": "TIARA",
+      "image": "file:///android_asset/image/LRA.jpg",
+      "link_mp3": "mp3/RIFLATI6.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 7,
+      "name_category": "ARIEF 1",
+      "title": "RELA KAU TINGGALKAN",
+      "image": "file:///android_asset/image/LRA.jpg",
+      "link_mp3": "mp3/RIFLATI7.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 8,
+      "name_category": "ARIEF 1",
+      "title": "TAK SEDALAM INI",
+      "image": "file:///android_asset/image/LRA.jpg",
+      "link_mp3": "mp3/RIFLATI8.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 9,
+      "name_category": "ARIEF 1",
+      "title": "KEPERCAYAANMU KEPADAKU",
+      "image": "file:///android_asset/image/LRA.jpg",
+      "link_mp3": "mp3/RIFLATI9.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 10,
+      "name_category": "ARIEF 1",
+      "title": "REMBULAN MALAM",
+      "image": "file:///android_asset/image/LRA.jpg",
+      "link_mp3": "mp3/RIFLATI10.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 11,
+      "name_category": "ARIEF 1",
+      "title": "HENDAKLAH CARI PENGGANTI",
+      "image": "file:///android_asset/image/LRA.jpg",
+      "link_mp3": "mp3/RIFLATI11.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 12,
+      "name_category": "ARIEF 1",
+      "title": "BENCI KU SANGKA SAYANG",
+      "image": "file:///android_asset/image/LRA.jpg",
+      "link_mp3": "mp3/RIFLATI12.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 13,
+      "name_category": "ARIEF 1",
+      "title": "AKU INGIN BAHAGIA",
+      "image": "file:///android_asset/image/LRA.jpg",
+      "link_mp3": "mp3/RIFLATI13.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 14,
+      "name_category": "ARIEF 1",
+      "title": "GERHANA DALAM CINTA",
+      "image": "file:///android_asset/image/LRA.jpg",
+      "link_mp3": "mp3/RIFLATI14.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 15,
+      "name_category": "ARIEF 1",
+      "title": "DALAM GELAKKU MENANGIS",
+      "image": "file:///android_asset/image/LRA.jpg",
+      "link_mp3": "mp3/RIFLATI15.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 16,
+      "name_category": "ARIEF 1",
+      "title": "EMAS HANTARAN",
+      "image": "file:///android_asset/image/LRA.jpg",
+      "link_mp3": "mp3/RIFLATI16.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 17,
+      "name_category": "ARIEF 1",
+      "title": "HARUSKAH AKU MATI",
+      "image": "file:///android_asset/image/LRA.jpg",
+      "link_mp3": "mp3/RIFLATI17.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 18,
+      "name_category": "ARIEF 2",
+      "title": "HANYA INSAN BIASA",
+      "image": "file:///android_asset/image/LRB.jpg",
+      "link_mp3": "mp3/RIFLATI18.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 19,
+      "name_category": "ARIEF 2",
+      "title": "BUIH JADI PERMADANI",
+      "image": "file:///android_asset/image/LRB.jpg",
+      "link_mp3": "mp3/RIFLATI19.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 20,
+      "name_category": "ARIEF 2",
+      "title": "CINTA SAMPAI MATI",
+      "image": "file:///android_asset/image/LRB.jpg",
+      "link_mp3": "mp3/RIFLATI20.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 21,
+      "name_category": "ARIEF 2",
+      "title": "AKULAH YANG KAU CINTA",
+      "image": "file:///android_asset/image/LRB.jpg",
+      "link_mp3": "mp3/RIFLATI21.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 22,
+      "name_category": "ARIEF 2",
+      "title": "ASMAR AYANG KANDAS",
+      "image": "file:///android_asset/image/LRB.jpg",
+      "link_mp3": "mp3/RIFLATI22.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 23,
+      "name_category": "ARIEF 2",
+      "title": "BERSAMA MENGGAPAI MIMPI",
+      "image": "file:///android_asset/image/LRB.jpg",
+      "link_mp3": "mp3/RIFLATI23.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 24,
+      "name_category": "ARIEF 2",
+      "title": "CINTAKU RINDUMU",
+      "image": "file:///android_asset/image/LRB.jpg",
+      "link_mp3": "mp3/RIFLATI24.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 25,
+      "name_category": "ARIEF 2",
+      "title": "CINTA SEHEBAT MENTARI",
+      "image": "file:///android_asset/image/LRB.jpg",
+      "link_mp3": "mp3/RIFLATI25.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 26,
+      "name_category": "ARIEF 2",
+      "title": "JANGAN TINGGALKAN AKU",
+      "image": "file:///android_asset/image/LRB.jpg",
+      "link_mp3": "mp3/RIFLATI26.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 27,
+      "name_category": "ARIEF 2",
+      "title": "LUKA SEKARAT RASA",
+      "image": "file:///android_asset/image/LRB.jpg",
+      "link_mp3": "mp3/RIFLATI27.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 28,
+      "name_category": "ARIEF 2",
+      "title": "MAU PULANG TAKUT KECEWA",
+      "image": "file:///android_asset/image/LRB.jpg",
+      "link_mp3": "mp3/RIFLATI28.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 29,
+      "name_category": "ARIEF 2",
+      "title": "PINANGAN BAGANTI ANGAN",
+      "image": "file:///android_asset/image/LRB.jpg",
+      "link_mp3": "mp3/RIFLATI29.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 30,
+      "name_category": "ARIEF 2",
+      "title": "JALAN HIDUP DAN CINTAKU",
+      "image": "file:///android_asset/image/LRB.jpg",
+      "link_mp3": "mp3/RIFLATI30.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 31,
+      "name_category": "ARIEF 2",
+      "title": "SEMPURNA DENGANMU",
+      "image": "file:///android_asset/image/LRB.jpg",
+      "link_mp3": "mp3/RIFLATI31.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 32,
+      "name_category": "ARIEF 2",
+      "title": "SETIA BERBALAS DUSTA",
+      "image": "file:///android_asset/image/LRB.jpg",
+      "link_mp3": "mp3/RIFLATI32.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 33,
+      "name_category": "ARIEF 2",
+      "title": "TERLALU KEJAM UNTUKMU",
+      "image": "file:///android_asset/image/LRB.jpg",
+      "link_mp3": "mp3/RIFLATI33.mp3",
+      "lyrics": ""
+	}
+  ]
+}
