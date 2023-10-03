@@ -1,0 +1,244 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "LESTI 1",
+      "image": "file:///android_asset/image/LTA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "LESTI 2",
+      "image": "file:///android_asset/image/LTB.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "LESTI 1",
+      "title": "BUKAN CINTA BIASA",
+      "image": "file:///android_asset/image/LTA.jpg",
+      "link_mp3": "mp3/BKSLBI1.mp3",
+      "lyrics": "<p>Begitu banyak cerita<br />Ada suka, ada duka<br />Cinta yang ingin kutulis<br />Bukanlah cinta biasa</p><p><br />Dua keyakinan beda<br />Masalah pun tak sama<br />Ku tak ingin dia ragu<br />Mengapa mereka selalu bertanya?</p><p><br />Cintaku bukan di atas kertas<br />Cintaku getaran yang sama<br />Tak perlu dipaksa, tak perlu dicari<br />Karena ku yakin ada jawabnya, ho...</p><p><br />Andai ku bisa merubah semua<br />Hingga tiada orang terluka<br />Tapi tak mungkin, ku tak berdaya<br />Hanya yakin menunggu jawabnya</p><p><br />Janji terikat setia<br />Masa merubah segala<br />Mungkin dia kan berlalu<br />Ku tak mau mereka tertawa...</p><p><br />Diriku hanya insan biasa<br />Miliki naluri yang sama<br />Tak ingin berpaling, tak ingin berganti<br />Jiwaku sering saja berkata, oh...</p><p><br />Andai ku mampu ulang semula<br />Ku pasti tiada yang curiga<br />Kasih kan hadir, tiada terduga<br />Hanya yakin menunggu jawaban...<br />oh...</p><p><br />Cintaku bukan di atas kertas<br />Cintaku getaran yang sama<br />Tak perlu dipaksa, tak perlu dicari<br />Karena ku yakin ada jawabnya, oh...</p><p><br />Andai ku bisa merubah semua<br />Hingga tiada orang terluka<br />Tapi tak mungkin, ku tak berdaya<br />Hanya yakin menunggu jawaban...</p><p><br />Diriku hanya insan biasa<br />Miliki naluri yang sama<br />Tak ingin berpaling, tak ingin berganti<br />Jiwaku sering saja berkata, oh...</p><p><br />Andai ku mampu ulang semula<br />Ku pasti tiada yang curiga...<br />Kasih kan hadir, tiada terduga...<br />Hanya yakin menunggu...<br />Jawaban</p>"
+	},
+     {
+      "id": 2,
+      "name_category": "LESTI 1",
+      "title": "DI ARSY-MU",
+      "image": "file:///android_asset/image/LTA.jpg",
+      "link_mp3": "mp3/BKSLBI2.mp3",
+      "lyrics": "<p>Dalam sunyi<br />Ku berbisik pada sang pemilik cinta<br />Bersyukur bahwa<br />SuratanNya mempertemukan kita berdua</p><p><br />Ku berharap<br />Dirimu tempat terakhirku berlabuh<br />Labuhkan kelak<br />Di dermagaNya sungai surga</p><p><br />Sesungguhnya hanya<br />KuasaNya<br />Yang berdaya<br />Meneguhkan cinta</p><p><br />Di dalam doa<br />Ku munajatkan cinta kita terjaga<br />Meski badai cobaan datang menerpa<br />Kuatkan hati untuk slalu saling menjaga</p><p><br />Tuk selamanya<br />Yang ku mau kita menua bersama<br />Hingga tiba saatnya menutup mata<br />Ku mohon izinkan nama kami<br />Bersanding di ArsyMu ya Allah</p><p><br />Selamanya<br />Ku peluk erat dirimu dalam doa<br />Bahkan ketika<br />Raga ini tak lagi ada</p><p><br />Bersatu dalam keabadian</p><p><br />Di dalam doa<br />Ku munajatkan cinta kita terjaga<br />Meski badai cobaan datang menerpa<br />Kuatkan hati untuk slalu saling menjaga</p><p><br />Tuk selamanya<br />Yang ku mau kita menua bersama<br />Hingga tiba saatnya menutup mata<br />Ku mohon izinkan nama kami<br />Bersanding di ArsyMu ya Allah</p><p><br />Dan ketika sang fajar<br />Menjelang menampakkan cahyanya<br />Takkan lelah aku menengadah<br />Abadikan cinta kami slamanya</p><p><br />Di dalam doa<br />Ku munajatkan cinta kita terjaga</p><p><br />Yang ku mau selalu bersama<br />Hingga akhirnya menutup mata</p><p><br />Tuk selamanya<br />Yang ku mau kita menua bersama<br />Hingga tiba saatnya menutup mata<br />Ku mohon izinkan nama kami<br />Bersanding di ArsyMu ya Allah</p>"
+	},
+	 {
+      "id": 3,
+      "name_category": "LESTI 1",
+      "title": "INSAN BIASA",
+      "image": "file:///android_asset/image/LTA.jpg",
+      "link_mp3": "mp3/BKSLBI3.mp3",
+      "lyrics": "<p>Salahkah aku bertahan di saat hati bimbang<br />Dosakah berikan maaf kala jiwaku rentan<br />Aku terdiam saat hati dan pikiranku tak sama<br />Mengukur rasa cinta dan amarah mana yg kudengar</p><p><br />Aku insan biasa begitu juga dia<br />Walau berat ku mencoba kesempatan ke dua</p><p><br />Aku rela hadapi semua kubuka hati seluas samudra<br />Aku ikhlas andai dunia tak lagi ramah pada kita<br />Ku berserah jalani kehidupan kuyakin kau bisa berubah<br />Kan kucoba bertahan<br />Selamatkan cinta kita dari badai prahara</p><p><br />Maafkanlah bila aku membuat kecewa<br />Aku hanya insan biasa</p><p><br />Padamu tuhan aku bermunajat atas keputusan<br />Kan kuterima biarlah semua jadi pelajaran<br />Aku insan biasa begitu juga dia<br />Walau berat kumencoba kesempatan kedua</p><p><br />Aku rela hadapi semua kubuka hati seluas samudra<br />Aku ikhlas andai dunia tak lagi ramah pada kita<br />Ku berserah jalani kehidupan kuyakin kau bisa berubah<br />Kan kucoba bertahan<br />Selamatkan cinta kita dari badai prahara</p><p><br />Aku rela hadapi semua kubuka hati seluas samudra<br />Aku ikhlas andai dunia tak lagi ramah pada kita<br />Ku berserah jalani kehidupan kuyakin kau bisa berubah<br />Kan kucoba bertahan<br />Selamatkan cinta kita dari badai prahara</p><p><br />Aku insan biasa<br />Maafkanlah</p>"
+	},
+	 {
+      "id": 4,
+      "name_category": "LESTI 1",
+      "title": "SEKALI SEUMUR HIDUP",
+      "image": "file:///android_asset/image/LTA.jpg",
+      "link_mp3": "mp3/BKSLBI4.mp3",
+      "lyrics": "<p>Kau hadir bagai dalam mimpi<br />Dan aku tak ingin terjaga lagi<br />Merangkai kisah seorang putri<br />Yang jatuh cinta pada sang pangeran</p><p><br />Andai engkau seorang raja<br />Aku ingin menjadi ratunya<br />Bersama hadapi dunia<br />Di kerajaan cinta kita berdua</p><p><br />Sekali seumur hidup<br />Cukup satu kali jangan berubah<br />Untuk selamanya<br />Seia sekata cinta</p><p><br />Untuk apa harta dunia<br />Bila tak ada cinta yang menyerta<br />Masyhur dan semua kejayaan<br />Tak cukup membuat kita bahagia</p><p><br />Tulus kasih dan sehaluan<br />Berlabuh kita di dermaga impian<br />Jalani hidup tanpa dusta<br />Penuh cinta dan kasih sayang</p><p><br />Andai engkau seorang raja<br />Aku ingin menjadi ratunya<br />Bersama hadapi dunia<br />Di kerajaan cinta kita berdua</p><p><br />Sekali seumur hidup<br />Cukup satu kali jangan berubah<br />Untuk selamanya<br />Seia sekata cinta</p><p><br />Untuk apa harta dunia<br />Bila tak ada cinta yang menyerta<br />Masyhur dan semua kejayaan<br />Tak cukup membuat kita bahagia</p><p><br />Tulus kasih dan sehaluan<br />Berlabuh kita di dermaga impian<br />Jalani hidup tanpa dusta<br />Penuh cinta dan kasih sayang</p>"
+	},
+	 {
+      "id": 5,
+      "name_category": "LESTI 1",
+      "title": "EGOIS",
+      "image": "file:///android_asset/image/LTA.jpg",
+      "link_mp3": "mp3/BKSLBI5.mp3",
+      "lyrics": "<p>Harusnya tak begini<br />Diantara kau dan aku<br />Sama-sama bertahan<br />Hanya kar'na satu<br />Ego sendiri</p><p><br />Sering kita sembunyi<br />Di balik sikap dan kata<br />Padahal hati kita<br />Tak ingin saling menyakiti</p><p><br />Mengapa tak mencoba, jujur<br />Pada hati kita, kasih<br />Bahwa sesungguhnya<br />Engkau dan aku<br />Takut berpisah</p><p><br />Seandainya saja, mau<br />Sedikit mengalah, kasih<br />Pertengkaran ini<br />Tak mungkin ada<br />Selamanya</p><p><br />Sering kita sembunyi<br />Dibalik sikap dan kata<br />Padahal hati kita<br />Tak ingin saling menyakiti</p><p><br />Mengapa tak mencoba, jujur<br />Pada hati kita, kasih<br />Bahwa sesungguhnya<br />Engkau dan aku<br />Takut berpisah</p><p><br />Seandainya saja, mau<br />Sedikit mengalah, kasih<br />Pertengkaran ini<br />Tak mungkin ada<br />Selamanya</p>"
+	},
+	 {
+      "id": 6,
+      "name_category": "LESTI 1",
+      "title": "BAWA AKU KE PENGHULU",
+      "image": "file:///android_asset/image/LTA.jpg",
+      "link_mp3": "mp3/BKSLBI6.mp3",
+      "lyrics": "<p>Pucuk dicinta ulam pun tiba kata pepatah<br />Kubutuh cinta kamu pun datang aku bahagia<br />Pernah merasa sakitnya cinta hati kecewa<br />Lalu kau hadir aku terlena tiada berdaya</p><p><br />Bunga yang layu kini mekar kembali<br />Kau siram dengan cinta sepenuh hati<br />Ditinggal nikah kulepas dengan ikhlas<br />Gantinya kamu ikhlas membawa berkah</p><p><br />Aku siap jadi milikmu<br />Siapkah kau menjadi imamku</p><p><br />Aku takut fitnah dan dosa<br />Bila berdua-dua denganmu</p><p><br />Apa lagi yang kau tunggu<br />Jadikan aku halal untukmu<br />Ayah Ibu beri restu<br />Bawa aku ke penghulu</p><p><br />Pernah merasa sakitnya cinta hati kecewa<br />Lalu kau hadir aku terlena tiada berdaya</p><p><br />Bunga yang layu kini mekar kembali<br />Kau siram dengan cinta sepenuh hati<br />Ditinggal nikah kulepas dengan ikhlas<br />Gantinya kamu ikhlas membawa berkah</p><p><br />Aku siap jadi milikmu<br />Siapkah kau menjadi imamku</p><p><br />Aku takut fitnah dan dosa<br />Bila berdua-dua denganmu</p><p><br />Apa lagi yang kau tunggu<br />Jadikan aku halal untukmu<br />Ayah Ibu beri restu<br />Bawa aku ke penghulu</p><p><br />Bawa aku ke penghulu<br />Ho sayang</p>"
+	},
+	 {
+      "id": 7,
+      "name_category": "LESTI 1",
+      "title": "BISMILLAH CINTA",
+      "image": "file:///android_asset/image/LTA.jpg",
+      "link_mp3": "mp3/BKSLBI7.mp3",
+      "lyrics": "<p>Tak dapat lagi kulukis rasa<br />Ramadhan yang indah kini t'lah tiba<br />Bulan penuh berkah, rahmat dari Allah<br />Meski dalam suasana berbeda</p><p><br />Cobaan demi cobaan melanda<br />Kita bersama namun tak lagi sama<br />Jarak memisahkan, semua t'lah berbatas<br />Ini ujian bagi kita</p><p><br />Bismillah cinta<br />Percaya padaku, percaya cinta<br />Yakin kita bisa lalui semua<br />S'gala cobaan yang datang mendera</p><p><br />Bismillah cinta<br />Panjatkan doa pada Yang Kuasa<br />Bersujud pada-Nya dengan air mata<br />Insya Allah, Ramadhan membawa hikmat</p><p><br />Bismillah cinta, percaya kita<br />Bismillah cinta, percaya cinta</p><p><br />Bismillah cinta<br />Percaya padaku, percaya cinta<br />Yakin kita bisa lalui semua<br />S'gala cobaan yang datang mendera</p><p><br />Bismillah cinta<br />Panjatkan doa pada Yang Kuasa<br />Bersujud pada-Nya dengan air mata<br />Insya Allah, Ramadhan membawa hikmat</p><p><br />Bismillah cinta<br />Percaya padaku, percaya cinta<br />Yakin kita bisa lalui semua<br />S'gala cobaan yang datang mendera</p><p><br />Bismillah cinta<br />Panjatkan doa pada Yang Kuasa<br />Bersujud pada-Nya dengan air mata<br />Insya Allah, Ramadhan membawa hikmat</p><p><br />Ha-ah, ha-ah<br />Bismillah cinta, bismillah cinta</p>"
+	},
+	 {
+      "id": 8,
+      "name_category": "LESTI 1",
+      "title": "TAKDIR CINTA",
+      "image": "file:///android_asset/image/LTA.jpg",
+      "link_mp3": "mp3/BKSLBI8.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 9,
+      "name_category": "LESTI 1",
+      "title": "KULEPAS DENGAN IKHLAS",
+      "image": "file:///android_asset/image/LTA.jpg",
+      "link_mp3": "mp3/BKSLBI9.mp3",
+      "lyrics": "<p>Selamat kuucapkan padamu<br />Wahai orang yang pernah paling aku sayang</p><p><br />Kulepas dirimu dengan ikhlas<br />Moga Tuhan jagakan dirimu dan dia</p><p><br />Kudatang memberikan selamat<br />Walau langkah kaki gamang<br />Untuk kamu aku datang<br />Semoga dirimu bahagia</p><p><br />Kulepas dirimu dengan ikhlas<br />Semoga engkau dan dia bahagia</p><p><br />Dulu kita pernah berbagi rasa<br />Kini kita hanya teman yang biasa</p><p><br />Dulu kita bisa berencana<br />Tapi Tuhanlah yang menakdirkan</p><p><br />Hidup terus berjalan<br />Engkau tlah ku relakan<br />Pada Tuhan semua<br />Ku pasrahkan</p><p><br />Selamat kuucapkan padamu<br />Wahai orang yang pernah paling aku sayang</p><p><br />Dulu kita pernah berbagi rasa<br />Kini kita hanya teman yang biasa</p><p><br />Dulu kita bisa berencana<br />Tapi Tuhanlah yang menakdirkan</p><p><br />Hidup terus berjalan<br />Engkau tlah ku relakan<br />Pada Tuhan semua<br />Ku pasrahkan</p><p><br />Kulepas dirimu dengan ikhlas<br />Semoga engkau dan dia bahagia</p>"
+	},
+	 {
+      "id": 10,
+      "name_category": "LESTI 1",
+      "title": "TIRANI",
+      "image": "file:///android_asset/image/LTA.jpg",
+      "link_mp3": "mp3/BKSLBI10.mp3",
+      "lyrics": "<p>Akhirnya aku tak sanggup lagi<br />Untuk tetap bertahan hidup begini<br />Cukuplah cukup sampai di sini<br />Silahkan saja bila kau ingin pergi</p><p><br />Terlalu lama<br />Terlalu banyak<br />Terlalu sering<br />Kau sakiti hati ini<br />Hanya karena ego diri</p><p><br />Kasih<br />Akhirnya<br />Akhirnya<br />Aku tak sanggup mendampingi dirimu</p><p><br />Lelah kusembunyi<br />Di balik senyumku<br />Hanya karena tak ingin ada<br />Pertengkaran di antara kita berdua</p><p><br />Lelah kumenanti<br />Hilangnya tirani<br />Namun hatimu tak bernurani<br />Bak berharap hujan di terik sang mentari</p><p><br />Puaskanlah<br />Puaskanlah<br />Selagi nafas masih ada</p><p><br />Sekarang<br />Silahkan engkau pergi<br />Kejarlah semua mimpi-mimpi indahmu</p><p><br />Terlalu lama<br />Terlalu banyak<br />Terlalu sering<br />Kau sakiti hati ini<br />Hanya karena ego diri</p><p><br />Kasih<br />Akhirnya<br />Akhirnya<br />Aku tak sanggup mendampingi dirimu</p><p><br />Lelah kusembunyi<br />Di balik senyumku<br />Hanya karena tak ingin ada<br />Pertengkaran di antara kita berdua</p><p><br />Lelah kumenanti<br />Hilangnya tirani<br />Namun hatimu tak bernurani<br />Bak berharap hujan di terik sang mentari</p><p><br />Puaskanlah<br />Puaskanlah<br />Selagi nafas masih ada</p><p><br />Oh masih ada</p>"
+	},
+	{
+      "id": 11,
+      "name_category": "LESTI 1",
+      "title": "LENTERA",
+      "image": "file:///android_asset/image/LTA.jpg",
+      "link_mp3": "mp3/BKSLBI11.mp3",
+      "lyrics": "<p>Wahai pagi mengajariku artinya kesejukan<br />Wahai malam mengajariku artinya keheningan<br />Dan Tuhan pun percaya menitipkan kamu padaku<br />Dan ini pun mengajariku cinta tiada batas</p><p><br />Denyutmu ada dalam denyutku<br />Meskipun sulit ku upayakan<br />Meraih bintang meraih bulan hanya untukmu</p><p><br />Takkan kubiarkan<br />Kegagalan menyelimutimu<br />Kegelapan mendampingimu<br />Akulah lentera di hidupmu</p><p><br />Bila sendu hadir<br />Ku pasti menggantikan tempatmu<br />Jantung pun pasti akan kuberi<br />Surgamu ada padaku</p><p><br />Denyutmu ada dalam denyutku<br />Meskipun sulit ku upayakan<br />Meraih bintang meraih bulan hanya untukmu</p><p><br />Takkan kubiarkan<br />Kegagalan menyelimutimu<br />Kegelapan mendampingimu<br />Akulah lentera di hidupmu</p><p><br />Bila sendu hadir<br />Ku pasti menggantikan tempatmu<br />Jantung pun pasti akan kuberi oh oh<br />Surgamu ada padaku</p>"
+	},
+     {
+      "id": 12,
+      "name_category": "LESTI 1",
+      "title": "IBU",
+      "image": "file:///android_asset/image/LTA.jpg",
+      "link_mp3": "mp3/BKSLBI12.mp3",
+      "lyrics": "<p>Sebening tetesan embun pagi<br />Secerah sinarnya mentari<br />Bila ku tatap wajahmu ibu<br />Ada kehangatan di dalam hatiku</p><p><br />Air wudhu selalu membasahimu<br />Ayat suci selalu dikumandangkan<br />Suara lembut penuh keluh dan kesah<br />Berdoa untuk putra putrinya</p><p><br />Oh ibuku engkaulah wanita<br />Yang ku cinta selama hidupku<br />Maafkan anakmu bila ada salah<br />Pengorbananmu tanpa balas jasa</p><p><br />Ya Allah ampuni dosanya<br />Sayangilah seperti menyayangiku<br />Berilah ia kebahagiaan<br />Di dunia juga di akhirat</p><p><br />Air wudhu selalu membasahimu<br />Ayat suci selalu dikumandangkan<br />Suara lembut penuh keluh dan kesah<br />Berdoa untuk putra putrinya</p><p><br />Oh ibuku engkaulah wanita<br />Yang ku cinta selama hidupku<br />Maafkan anakmu bila ada salah<br />Pengorbananmu tanpa balas jasa</p><p><br />Ya Allah ampuni dosanya<br />Sayangilah seperti menyayangiku<br />Berilah ia kebahagiaan<br />Di dunia juga di akhirat</p><p><br />Di dunia juga di akhirat<br />Di dunia juga di akhirat<br />Di dunia juga di akhirat<br />Di dunia juga di akhirat</p>"
+	},
+	 {
+      "id": 13,
+      "name_category": "LESTI 1",
+      "title": "LEBIH DARI SELAMANYA",
+      "image": "file:///android_asset/image/LTA.jpg",
+      "link_mp3": "mp3/BKSLBI13.mp3",
+      "lyrics": "<p>Ku akan menyayangmu<br />Sampai waktu memangggilku<br />Selalu menjagamu<br />Janjiku pada Tuhanku</p><p><br />Aku terlanjur teramat sayang padamu<br />Aku tak sanggup bila harus berpisah darimu kekasihku</p><p><br />Ku akan menyayangmu<br />Sampai waktu memanggilku</p><p><br />Hari terus berganti<br />Kutakut engkau pergi<br />Kau telah kumiliki<br />Tak akan kulepas lagi</p><p><br />Roda hidup berputar<br />Suka terkadang duka<br />Asal bersamamu kurela<br />Dan menerima</p><p>&nbsp;</p><p>Terima kasih cinta<br />Atas segala rasa<br />Semoga selalu bersama<br />Lebih dari selamanya</p><p><br />Ku akan menyayangmu<br />Sampai waktu memanggilku</p><p><br />Hari terus berganti<br />Kutakut engkau pergi<br />Kau telah kumiliki<br />Tak akan kulepas lagi</p><p><br />Roda hidup berputar<br />Suka terkadang duka<br />Asal bersamamu kurela<br />Dan menerima</p><p><br />Terima kasih cinta<br />Atas segala rasa<br />Semoga selalu bersama<br />Lebih dari selamanya</p><p><br />Oh selamanya (selamanya oh)<br />Lebih dari selamanya</p>"
+	},
+	 {
+      "id": 14,
+      "name_category": "LESTI 2",
+      "title": "KEJORA",
+      "image": "file:///android_asset/image/LTB.jpg",
+      "link_mp3": "mp3/BKSLBI14.mp3",
+      "lyrics": "<p>Kejora, temanilah malamku<br />Sampaikan rinduku yang terlarang<br />Dia yang kucinta, kini t'lah berdua<br />Tak mampu diriku menahan rindu padanya</p><p><br />Kejora, pancarkanlah sinarmu<br />Temani keheningan malamku<br />Padamu kejora, kutitipkan rindu<br />Untuknya yang kini jauh di mata</p><p><br />Kuberkhayal, angankan dirimu<br />Seakan hadir di sini<br />Temaniku, memelukmu<br />Indah dalam belai kasih sayang</p><p><br />Tak terganti rasa cinta ini<br />Meski kini kau tak sendiri<br />Sisa cinta 'kan jadi cerita<br />Tersimpan selamanya bersama kejora</p><p><br />Kejora, sampaikan rindu ini</p><p><br />Kejora, pancarkanlah sinarmu<br />Temani keheningan malamku<br />Padamu kejora, kutitipkan rindu<br />Untuknya yang kini jauh di mata</p><p><br />Kuberkhayal, angankan dirimu<br />Seakan hadir di sini<br />Temaniku, memelukmu<br />Indah dalam belai kasih sayang</p><p><br />Tak terganti rasa cinta ini<br />Meski kini kau tak sendiri<br />Sisa cinta 'kan jadi cerita<br />Tersimpan selamanya bersama kejora</p><p><br />Kejora, sampaikan rindu ini</p>"
+	},
+	 {
+      "id": 15,
+      "name_category": "LESTI 2",
+      "title": "PURNAMA",
+      "image": "file:///android_asset/image/LTB.jpg",
+      "link_mp3": "mp3/BKSLBI15.mp3",
+      "lyrics": "<p>Kurindu purnama lalu<br />Berpayung kabut asmara<br />Hingga kini masih kurasakan<br />Meski kini kau telah sirna</p><p><br />Kecup lembut di keningku<br />Nafas cintamu cintaku<br />Semakin dalam rinduku benderang<br />Kala kulihat purnama</p><p><br />Hening di ujung malamku<br />Berselimut sepi ku merindukanmu</p><p><br />Memendam rindu aku di sini<br />Menanti cintamu kembali<br />Pedih hatiku tersayat rindu<br />Terbayang kenangan saat bersamamu</p><p><br />Kala purnama menghampiriku<br />Tak tertahan linang air mata<br />Semakin dalam rindu kupendam<br />Wahai purnama berilah aku terang<br />Purnama<br />Purnama</p><p><br />Hening di ujung malamku<br />Berselimut sepi ku merindukanmu</p><p><br />Memendam rindu aku di sini<br />Menanti cintamu kembali<br />Pedih hatiku tersayat rindu<br />Terbayang kenangan saat bersamamu</p><p><br />Kala purnama menghampiriku<br />Tak tertahan linang air mata<br />Semakin dalam rindu kupendam<br />Wahai purnama berilah aku terang</p><p><br />Purnama</p>"
+	},
+	 {
+      "id": 16,
+      "name_category": "LESTI 2",
+      "title": "ADA CERITA",
+      "image": "file:///android_asset/image/LTB.jpg",
+      "link_mp3": "mp3/BKSLBI16.mp3",
+      "lyrics": "<p>Hapus air mata yang mengalir di wajahmu<br />Tak perlu kau bersedih<br />Cinta tak mungkin bisa tuk melebur menjadi satu<br />Karena kita berdua berbeda</p><p><br />Jangan tanyakan mengapa<br />Aku pun tak ada jawabnya<br />Bisa kau tangisi lagi<br />Biarlah berlalu</p><p><br />Dalam hatiku takkan mungkin hilang<br />Meski dirimu tak lagi bersamaku<br />Ada cerita di kehidupan nanti<br />Kita bertemu<br />Kan kupastikan kita bersatu</p><p><br />Semua kisah di antara kita<br />Kan kujaga seumur hidupku</p><p><br />Dalam hatiku takkan mungkin hilang<br />Meski dirimu tak lagi bersamaku<br />Ada cerita di kehidupan nanti<br />Kita bertemu<br />Kan kupastikan kita bersatu</p><p><br />Dalam hatiku takkan mungkin hilang<br />Meski dirimu tak lagi bersamaku<br />Ada cerita di kehidupan nanti<br />Kita bertemu<br />Kan kupastikan kita bersatu hu</p>"
+	},
+	 {
+      "id": 17,
+      "name_category": "LESTI 2",
+      "title": "BUKA MATA HATI",
+      "image": "file:///android_asset/image/LTB.jpg",
+      "link_mp3": "mp3/BKSLBI17.mp3",
+      "lyrics": "<p>Sudah sekian lama di dunia<br />Tak jua kau memahami<br />Dunia seakan hanya tentang uang dan harta</p><p><br />Bagaimana agar kau mengerti?<br />Buka mata hatimu, dengar firman Ilahi<br />Ingatkah kau pada kematian?<br />Yang kau bawa hanyalah amal selama di dunia</p><p><br />Manusia yang paling mulia selalu menjaga hatinya<br />Dia sabar menerima cobaan yang Allah berikan<br />Hargailah hidup ini selagi kau masih bernafas<br />Waktu tak akan menunggu hingga sampai kau sadar</p><p><br />Khilaf itu pasti 'kan datang, manusia tempatnya salah<br />Janganlah kau nodai hatimu dengan benci</p><p><br />Bagaimana agar kau mengerti<br />Buka mata hatimu dengar firman Ilahi<br />Ingatkah kau pada kematian?<br />Yang kau bawa hanyalah amal selama di dunia</p><p><br />Manusia yang paling mulia selalu menjaga hatinya<br />Dia sabar menerima cobaan yang Allah berikan<br />Hargailah hidup ini selagi kau masih bernafas<br />Waktu tak akan menunggu hingga sampai kau sadar</p><p><br />Manusia yang paling mulia hanya mencintai Tuhannya<br />Berharap pada manusia hanya kecewa yang kau dapat<br />Hanya Tuhanlah yang mampu menjamin hidup dan matimu<br />Bersujud dan memohon, berharaplah pada-Nya</p>"
+	},
+	 {
+      "id": 18,
+      "name_category": "LESTI 2",
+      "title": "ITIRAF",
+      "image": "file:///android_asset/image/LTB.jpg",
+      "link_mp3": "mp3/BKSLBI18.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 19,
+      "name_category": "LESTI 2",
+      "title": "KEHILANGAN",
+      "image": "file:///android_asset/image/LTB.jpg",
+      "link_mp3": "mp3/BKSLBI19.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 20,
+      "name_category": "LESTI 2",
+      "title": "MATI GAYA",
+      "image": "file:///android_asset/image/LTB.jpg",
+      "link_mp3": "mp3/BKSLBI20.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 21,
+      "name_category": "LESTI 2",
+      "title": "PAYUNG HITAM",
+      "image": "file:///android_asset/image/LTB.jpg",
+      "link_mp3": "mp3/BKSLBI21.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 22,
+      "name_category": "LESTI 2",
+      "title": "TAK BISA TIDUR",
+      "image": "file:///android_asset/image/LTB.jpg",
+      "link_mp3": "mp3/BKSLBI22.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 23,
+      "name_category": "LESTI 2",
+      "title": "ZAPIN MELAYU",
+      "image": "file:///android_asset/image/LTB.jpg",
+      "link_mp3": "mp3/BKSLBI23.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 24,
+      "name_category": "LESTI 2",
+      "title": "RAMADHAN BERKAH",
+      "image": "file:///android_asset/image/LTB.jpg",
+      "link_mp3": "mp3/BKSLBI24.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 25,
+      "name_category": "LESTI 2",
+      "title": "TAK TERMILIKI",
+      "image": "file:///android_asset/image/LTB.jpg",
+      "link_mp3": "mp3/BKSLBI25.mp3",
+      "lyrics": ""
+	}
+  ]
+}
