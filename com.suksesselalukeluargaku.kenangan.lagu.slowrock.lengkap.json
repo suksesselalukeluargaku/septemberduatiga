@@ -1,0 +1,236 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "KENANGAN A",
+      "image": "file:///android_asset/image/KNA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "KENANGAN B",
+      "image": "file:///android_asset/image/KNB.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "KENANGAN A",
+      "title": "AIR MATA JADI SAKSI",
+      "image": "file:///android_asset/image/KNA.jpg",
+      "link_mp3": "mp3/KNAIRMTAJADISKSIRK.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 2,
+      "name_category": "KENANGAN A",
+      "title": "AIR MATA RINDU",
+      "image": "file:///android_asset/image/KNA.jpg",
+      "link_mp3": "mp3/KNAIRMTARNDURK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 3,
+      "name_category": "KENANGAN A",
+      "title": "BADAI ASMARA",
+      "image": "file:///android_asset/image/KNA.jpg",
+      "link_mp3": "mp3/KNBADAIASMRARK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 4,
+      "name_category": "KENANGAN A",
+      "title": "BUKAN CINTA BIASA",
+      "image": "file:///android_asset/image/KNA.jpg",
+      "link_mp3": "mp3/KNBKANCNTABIASARC.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 5,
+      "name_category": "KENANGAN A",
+      "title": "BINTANG KEHIDUPAN",
+      "image": "file:///android_asset/image/KNA.jpg",
+      "link_mp3": "mp3/KNBNTNGKHIDUPANRK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 6,
+      "name_category": "KENANGAN A",
+      "title": "CINTA TAK BERUBAH",
+      "image": "file:///android_asset/image/KNA.jpg",
+      "link_mp3": "mp3/KNCNTATKBRUBHRK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 7,
+      "name_category": "KENANGAN A",
+      "title": "CINTA TAK TERBATAS WAKTU",
+      "image": "file:///android_asset/image/KNA.jpg",
+      "link_mp3": "mp3/KNCNTATKTERBATASWKTURK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 8,
+      "name_category": "KENANGAN A",
+      "title": "DURI TERLINDUNGI",
+      "image": "file:///android_asset/image/KNA.jpg",
+      "link_mp3": "mp3/KNDURITRINDUNGRK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 9,
+      "name_category": "KENANGAN A",
+      "title": "HATI BAGAI PENJARA",
+      "image": "file:///android_asset/image/KNA.jpg",
+      "link_mp3": "mp3/KNHTIBGAITRPENJARARK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 10,
+      "name_category": "KENANGAN A",
+      "title": "HATIKU BAGAI SAGKAR",
+      "image": "file:///android_asset/image/KNA.jpg",
+      "link_mp3": "mp3/KNHTIKUBGAIDSNGKAREMASRK.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 11,
+      "name_category": "KENANGAN A",
+      "title": "HATI YANG TERLUKA",
+      "image": "file:///android_asset/image/KNA.jpg",
+      "link_mp3": "mp3/KNHTIYGTRLUKARK.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 12,
+      "name_category": "KENANGAN A",
+      "title": "KESILAPAN KEEGOANKU",
+      "image": "file:///android_asset/image/KNA.jpg",
+      "link_mp3": "mp3/KNKESILAPANKEEGOANKURK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 13,
+      "name_category": "KENANGAN B",
+      "title": "KU TAK AKAN BERSUARA",
+      "image": "file:///android_asset/image/KNB.jpg",
+      "link_mp3": "mp3/KNKUTKAKNBRSUARARK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 14,
+      "name_category": "KENANGAN B",
+      "title": "NAFAS CINTA",
+      "image": "file:///android_asset/image/KNB.jpg",
+      "link_mp3": "mp3/KNNFASCNTARK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 15,
+      "name_category": "KENANGAN B",
+      "title": "ANTARA KAU DIA DAN AKU",
+      "image": "file:///android_asset/image/KNB.jpg",
+      "link_mp3": "mp3/KNNYLAAPIRK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 16,
+      "name_category": "KENANGAN B",
+      "title": "NYALA API",
+      "image": "file:///android_asset/image/KNB.jpg",
+      "link_mp3": "mp3/KNNYLAKANAPIRK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 17,
+      "name_category": "KENANGAN B",
+      "title": "PURNAMA MERINDU",
+      "image": "file:///android_asset/image/KNB.jpg",
+      "link_mp3": "mp3/KNPURNMAMRINDURK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 18,
+      "name_category": "KENANGAN B",
+      "title": "RELA",
+      "image": "file:///android_asset/image/KNB.jpg",
+      "link_mp3": "mp3/KNRELARK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 19,
+      "name_category": "KENANGAN B",
+      "title": "SEBERKAS SINAR",
+      "image": "file:///android_asset/image/KNB.jpg",
+      "link_mp3": "mp3/KNSBERKASSNARRK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 20,
+      "name_category": "KENANGAN B",
+      "title": "SANDIWRA CINTA",
+      "image": "file:///android_asset/image/KNB.jpg",
+      "link_mp3": "mp3/KNSNDIWARACINTARK.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 21,
+      "name_category": "KENANGAN B",
+      "title": "SURAT UNDANGAN",
+      "image": "file:///android_asset/image/KNB.jpg",
+      "link_mp3": "mp3/KNSURATUNDNGANRK.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 22,
+      "name_category": "KENANGAN B",
+      "title": "TINGGALKU SENDIRI",
+      "image": "file:///android_asset/image/KNB.jpg",
+      "link_mp3": "mp3/KNTNGGLAHKUSNDIRIRK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 23,
+      "name_category": "KENANGAN B",
+      "title": "TERPERANGKAP DALAM DUKA",
+      "image": "file:///android_asset/image/KNB.jpg",
+      "link_mp3": "mp3/KNTRPRNGKAPDLAMDUKARK.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 24,
+      "name_category": "KENANGAN B",
+      "title": "WAJAH KEKASIH",
+      "image": "file:///android_asset/image/KNB.jpg",
+      "link_mp3": "mp3/KNWJAHKEKASIHRK.mp3",
+      "lyrics": ""
+	}
+  ]
+}
