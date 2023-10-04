@@ -1,0 +1,263 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "DIFARINA FENDIK",
+      "image": "file:///android_asset/image/DF.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "DIFARINA FENDIK",
+      "title": "TAMAN JURUG",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA1.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 2,
+      "name_category": "DIFARINA FENDIK",
+      "title": "SATU RASA CINTA",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA2.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 3,
+      "name_category": "DIFARINA FENDIK",
+      "title": "LEMBAH MANAH",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA3.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 4,
+      "name_category": "DIFARINA FENDIK",
+      "title": "PANTUN JANDA",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA4.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 5,
+      "name_category": "DIFARINA FENDIK",
+      "title": "CERITO MUSTAHIL",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA5.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 6,
+      "name_category": "DIFARINA FENDIK",
+      "title": "DERMAGA BIRU",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA6.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 7,
+      "name_category": "DIFARINA FENDIK",
+      "title": "TIARA",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA7.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 8,
+      "name_category": "DIFARINA FENDIK",
+      "title": "OJO DIBANDINGKE",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA8.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 9,
+      "name_category": "DIFARINA FENDIK",
+      "title": "FULL SENYUM",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA9.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 10,
+      "name_category": "DIFARINA FENDIK",
+      "title": "KOYO JOGJA ISTIMEWA",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA10.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 11,
+      "name_category": "DIFARINA FENDIK",
+      "title": "SATRU 2",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA11.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 12,
+      "name_category": "DIFARINA FENDIK",
+      "title": "JOKO TINGKIR",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA12.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 13,
+      "name_category": "DIFARINA FENDIK",
+      "title": "OJO NANGIS",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA13.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 14,
+      "name_category": "DIFARINA FENDIK",
+      "title": "SETIA UNTUK SELAMANYA",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA14.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 15,
+      "name_category": "DIFARINA FENDIK",
+      "title": "GEDANG ROJO",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA15.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 16,
+      "name_category": "DIFARINA FENDIK",
+      "title": "REMBULAN MALAM",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA16.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 17,
+      "name_category": "DIFARINA FENDIK",
+      "title": "LAUT",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA17.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 18,
+      "name_category": "DIFARINA FENDIK",
+      "title": "MENDM WEDOKAN",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA18.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 19,
+      "name_category": "DIFARINA FENDIK",
+      "title": "SAYANG AKU KECAPEKAN",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA19.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 20,
+      "name_category": "DIFARINA FENDIK",
+      "title": "AKU CAH KERJO",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA20.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 21,
+      "name_category": "DIFARINA FENDIK",
+      "title": "ARJUN",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA21.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 22,
+      "name_category": "DIFARINA FENDIK",
+      "title": "BIDADARI CINTA",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA22.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 23,
+      "name_category": "DIFARINA FENDIK",
+      "title": "BUIH JADI PERMADANI",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA23.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 24,
+      "name_category": "DIFARINA FENDIK",
+      "title": "SINGKONG KEJU",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA24.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 25,
+      "name_category": "DIFARINA FENDIK",
+      "title": "HUJAN DI MALAM MINGGU",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA25.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 26,
+      "name_category": "DIFARINA FENDIK",
+      "title": "KEHADIRAN CINTA",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA26.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 27,
+      "name_category": "DIFARINA FENDIK",
+      "title": "MENDUNG TANPO UDAN",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA27.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 28,
+      "name_category": "DIFARINA FENDIK",
+      "title": "PANTAI KLAYAR",
+      "image": "file:///android_asset/image/DF.jpg",
+      "link_mp3": "mp3/DIFDUDIKDA28.mp3",
+      "lyrics": ""
+	}
+  ]
+}
