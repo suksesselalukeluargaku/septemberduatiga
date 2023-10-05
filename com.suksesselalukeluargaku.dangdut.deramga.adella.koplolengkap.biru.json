@@ -1,0 +1,273 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "ADELLA A",
+      "image": "file:///android_asset/image/LAD.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "ADELLA B",
+      "image": "file:///android_asset/image/LBD.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "ADELLA C",
+      "image": "file:///android_asset/image/LCD.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "ADELLA A",
+      "title": "SIA SIA MENGHARAP CINTAMU",
+      "image": "file:///android_asset/image/LAD.jpg",
+      "link_mp3": "mp3/SIDALADE1.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 2,
+      "name_category": "ADELLA A",
+      "title": "SATUR ASA CINTA",
+      "image": "file:///android_asset/image/LAD.jpg",
+      "link_mp3": "mp3/SIDALADE2.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 3,
+      "name_category": "ADELLA A",
+      "title": "TAMAN JURUG",
+      "image": "file:///android_asset/image/LAD.jpg",
+      "link_mp3": "mp3/SIDALADE3.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 4,
+      "name_category": "ADELLA A",
+      "title": "CANDUMANI",
+      "image": "file:///android_asset/image/LAD.jpg",
+      "link_mp3": "mp3/SIDALADE4.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 5,
+      "name_category": "ADELLA A",
+      "title": "SANES",
+      "image": "file:///android_asset/image/LAD.jpg",
+      "link_mp3": "mp3/SIDALADE5.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 6,
+      "name_category": "ADELLA A",
+      "title": "KISINAN",
+      "image": "file:///android_asset/image/LAD.jpg",
+      "link_mp3": "mp3/SIDALADE6.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 7,
+      "name_category": "ADELLA A",
+      "title": "NEMU",
+      "image": "file:///android_asset/image/LAD.jpg",
+      "link_mp3": "mp3/SIDALADE7.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 8,
+      "name_category": "ADELLA A",
+      "title": "PANTUN JANDA",
+      "image": "file:///android_asset/image/LAD.jpg",
+      "link_mp3": "mp3/SIDALADE8.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 9,
+      "name_category": "ADELLA A",
+      "title": "DERMAGA BIRU",
+      "image": "file:///android_asset/image/LAD.jpg",
+      "link_mp3": "mp3/SIDALADE9.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 10,
+      "name_category": "ADELLA A",
+      "title": "TIARA",
+      "image": "file:///android_asset/image/LAD.jpg",
+      "link_mp3": "mp3/SIDALADE10.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 11,
+      "name_category": "ADELLA B",
+      "title": "OJO DIBANDINGKE",
+      "image": "file:///android_asset/image/LBD.jpg",
+      "link_mp3": "mp3/SIDALADE11.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 12,
+      "name_category": "ADELLA B",
+      "title": "BIDADARI CINTA",
+      "image": "file:///android_asset/image/LBD.jpg",
+      "link_mp3": "mp3/SIDALADE12.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 13,
+      "name_category": "ADELLA B",
+      "title": "JOKO TINGKIR",
+      "image": "file:///android_asset/image/LBD.jpg",
+      "link_mp3": "mp3/SIDALADE13.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 14,
+      "name_category": "ADELLA B",
+      "title": "LALI JANJINE",
+      "image": "file:///android_asset/image/LBD.jpg",
+      "link_mp3": "mp3/SIDALADE14.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 15,
+      "name_category": "ADELLA B",
+      "title": "SATRU 2",
+      "image": "file:///android_asset/image/LBD.jpg",
+      "link_mp3": "mp3/SIDALADE15.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 16,
+      "name_category": "ADELLA B",
+      "title": "SAYANG AKU KECAPEKAN",
+      "image": "file:///android_asset/image/LBD.jpg",
+      "link_mp3": "mp3/SIDALADE16.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 17,
+      "name_category": "ADELLA B",
+      "title": "KOK ISO YO",
+      "image": "file:///android_asset/image/LBD.jpg",
+      "link_mp3": "mp3/SIDALADE17.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 18,
+      "name_category": "ADELLA B",
+      "title": "REMBULAN MALAM",
+      "image": "file:///android_asset/image/LBD.jpg",
+      "link_mp3": "mp3/SIDALADE18.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 19,
+      "name_category": "ADELLA B",
+      "title": "KOYO JOGJA ISTUIMEWA",
+      "image": "file:///android_asset/image/LBD.jpg",
+      "link_mp3": "mp3/SIDALADE19.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 20,
+      "name_category": "ADELLA B",
+      "title": "BUIH JADI PERMADANI",
+      "image": "file:///android_asset/image/LBD.jpg",
+      "link_mp3": "mp3/SIDALADE20.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 21,
+      "name_category": "ADELLA C",
+      "title": "SETIA UNTUK SELAMANYA",
+      "image": "file:///android_asset/image/LCD.jpg",
+      "link_mp3": "mp3/SIDALADE21.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 22,
+      "name_category": "ADELLA C",
+      "title": "TOP TOPAN",
+      "image": "file:///android_asset/image/LCD.jpg",
+      "link_mp3": "mp3/SIDALADE22.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 23,
+      "name_category": "ADELLA C",
+      "title": "ADA UNTUKMU",
+      "image": "file:///android_asset/image/LCD.jpg",
+      "link_mp3": "mp3/SIDALADE23.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 24,
+      "name_category": "ADELLA C",
+      "title": "DISINI DIBATAS KOTA INI",
+      "image": "file:///android_asset/image/LCD.jpg",
+      "link_mp3": "mp3/SIDALADE24.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 25,
+      "name_category": "ADELLA C",
+      "title": "GERIMIS MENGUNDANG",
+      "image": "file:///android_asset/image/LCD.jpg",
+      "link_mp3": "mp3/SIDALADE25.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 26,
+      "name_category": "ADELLA C",
+      "title": "HADIRMU BAGAI MIMPI",
+      "image": "file:///android_asset/image/LCD.jpg",
+      "link_mp3": "mp3/SIDALADE26.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 27,
+      "name_category": "ADELLA C",
+      "title": "KEHADORAN CINTA",
+      "image": "file:///android_asset/image/LCD.jpg",
+      "link_mp3": "mp3/SIDALADE27.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 28,
+      "name_category": "ADELLA C",
+      "title": "PECAH SERIBU",
+      "image": "file:///android_asset/image/LCD.jpg",
+      "link_mp3": "mp3/SIDALADE28.mp3",
+      "lyrics": ""
+	}
+  ]
+}
